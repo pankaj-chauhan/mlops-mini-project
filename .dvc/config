@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = D:\Study\DSMP2\MLOps_Nitish\mlops-mini-project\temp>
